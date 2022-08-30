@@ -4,9 +4,11 @@
 #include <iostream>
 #include <thread>
 #include <string>
-#include "Offsets.hpp"
 #include "Entity.h"
 #include "LocalPlayer.h"
 #include "NullMemory.h"
 #include "Xor.h"
+#include "lolz.hpp"
+#include "Math.h"
 #include "W2S.h"
+#include <corecrt_math_defines.h>"

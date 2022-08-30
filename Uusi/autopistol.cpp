@@ -5,10 +5,10 @@
 inline int Koodi::currentWeapon()
 {
 	/* Reading LocalPlayer's Weapon */
-	DWORD LocalWeapon = rpm<DWORD>(LocalPlayer::getLocalPlayer() + netvars::m_hActiveWeapon);
+	DWORD LocalWeapon = rpm<DWORD>(LocalPlayer::getLocalPlayer() + g_netvars::m_hActiveWeapon);
 	DWORD duck = LocalWeapon & 0xFFF;
-	DWORD horse = rpm<DWORD>(baseAddress + offs::dwEntityList + (duck - 1) * 16);
-	int cock = rpm<int>(horse + netvars::m_iItemDefinitionIndex); /* LocalPlayer's Current Weapon */
+	DWORD horse = rpm<DWORD>(baseAddress + g_offsets::dwEntityList + (duck - 1) * 16);
+	int cock = rpm<int>(horse + g_netvars::m_iItemDefinitionIndex); /* LocalPlayer's Current Weapon */
 	return cock;
 }
 

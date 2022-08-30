@@ -4,15 +4,14 @@
 #include "Entity.h"
 
 //#include "Offsets.hpp"
-
 DWORD Entity::getEntBase(int index)
 {
-	return rpm<DWORD>(baseAddress + offs::dwEntityList + (index * 0x10));
+	return rpm<DWORD>(baseAddress + g_offsets::dwEntityList + (index * 0x10));
 }
 
 int	Entity::getEntHp(DWORD playerBase)
 {
-	return rpm<int>(playerBase + netvars::m_iHealth);
+	return rpm<int>(playerBase + g_netvars::m_iHealth);
 }
 
 bool Entity::isAlive(DWORD playerBase)
@@ -24,17 +23,17 @@ bool Entity::isAlive(DWORD playerBase)
 
 int	Entity::getEntTeam(DWORD playerBase)
 {
-	return rpm<int>(playerBase + netvars::m_iTeamNum);
+	return rpm<int>(playerBase + g_netvars::m_iTeamNum);
 }
 
 int Entity::getGlowIndex(DWORD playerBase)
 {
-	return rpm<int>(playerBase + netvars::m_iGlowIndex);
+	return rpm<int>(playerBase + g_netvars::m_iGlowIndex);
 }
 
 DWORD Entity::getGlowObj()
 {
-	return rpm<DWORD>(baseAddress + offs::dwGlowObjectManager);
+	return rpm<DWORD>(baseAddress + g_offsets::dwGlowObjectManager);
 }
 
 bool Entity::isValid(DWORD playerBase)
@@ -58,68 +57,68 @@ void Entity::glowEsp(DWORD glowObj, int glowInd, float r, float g, float b, floa
 
 bool Entity::getSpotted(DWORD playerBase)
 {
-	return rpm<bool>(playerBase + netvars::m_bSpotted);
+	return rpm<bool>(playerBase + g_netvars::m_bSpotted);
 }
 
 void Entity::setSpotted(DWORD playerBase, bool val)
 {
-	wpm<bool>(val, playerBase + netvars::m_bSpotted);
+	wpm<bool>(val, playerBase + g_netvars::m_bSpotted);
 }
 
 D3DXVECTOR3	Entity::getEntPos(DWORD playerBase)
 {
-	return rpm<D3DXVECTOR3>(playerBase + netvars::m_vecOrigin);
+	return rpm<D3DXVECTOR3>(playerBase + g_netvars::m_vecOrigin);
 }
 
 char* Entity::getEntName(DWORD playerBase)
 {
-	return rpm<char*>(playerBase + netvars::m_szCustomName);
+	return rpm<char*>(playerBase + g_netvars::m_szCustomName);
 }
 
 DWORD Entity::getEntBoneMatrix(DWORD playerBase)
 {
-	return rpm<DWORD>(playerBase + netvars::m_dwBoneMatrix);
+	return rpm<DWORD>(playerBase + g_netvars::m_dwBoneMatrix);
 }
 
 D3DXVECTOR3 Entity::getEntEyePos(DWORD playerBase)
 {
-	return ((Entity::getEntPos(playerBase)) + (rpm<D3DXVECTOR3>(playerBase + netvars::m_vecViewOffset)));
+	return ((Entity::getEntPos(playerBase)) + (rpm<D3DXVECTOR3>(playerBase + g_netvars::m_vecViewOffset)));
 }
 
 bool Entity::getEntScoped(DWORD playerBase)
 {
-	return rpm<bool>(playerBase + netvars::m_bIsScoped);
+	return rpm<bool>(playerBase + g_netvars::m_bIsScoped);
 }
 
 bool Entity::getEntDefusing(DWORD playerBase)
 {
-	return rpm<bool>(playerBase + netvars::m_bIsDefusing);
+	return rpm<bool>(playerBase + g_netvars::m_bIsDefusing);
 }
 
 bool Entity::getEntReloading(DWORD playerBase)
 {
-	return rpm<bool>(playerBase + netvars::m_bInReload);
+	return rpm<bool>(playerBase + g_netvars::m_bInReload);
 }
 
 bool Entity::getEntHelmet(DWORD playerBase)
 {
-	return rpm<bool>(playerBase + netvars::m_bHasHelmet);
+	return rpm<bool>(playerBase + g_netvars::m_bHasHelmet);
 }
 
 bool Entity::getEntDefuser(DWORD playerBase)
 {
-	return rpm<bool>(playerBase + netvars::m_bHasDefuser);
+	return rpm<bool>(playerBase + g_netvars::m_bHasDefuser);
 }
 
 bool Entity::getEntImmunity(DWORD playerBase)
 {
-	return rpm<bool>(playerBase + netvars::m_bGunGameImmunity);
+	return rpm<bool>(playerBase + g_netvars::m_bGunGameImmunity);
 }
 
 DWORD Entity::getActiveWeapon(DWORD playerBase)
 {
-	DWORD WeaponIndex = rpm<DWORD>(playerBase + netvars::m_hActiveWeapon) & 0xFFF;
-	return rpm<DWORD>((baseAddress + offs::dwEntityList + WeaponIndex * 0x10) - 0x10);
+	DWORD WeaponIndex = rpm<DWORD>(playerBase + g_netvars::m_hActiveWeapon) & 0xFFF;
+	return rpm<DWORD>((baseAddress + g_offsets::dwEntityList + WeaponIndex * 0x10) - 0x10);
 }
 
 //Uses ClassID
@@ -181,5 +180,5 @@ D3DXVECTOR3	Entity::getEntBonePos(DWORD playerBase, int boneID)
 int Entity::getEntAmmo(DWORD playerBase)
 {
 	auto weapon = Entity::getActiveWeapon(playerBase);
-	return rpm<int>(weapon + netvars::m_iClip1);
+	return rpm<int>(weapon + g_netvars::m_iClip1);
 }

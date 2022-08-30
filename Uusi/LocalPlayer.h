@@ -16,13 +16,13 @@ namespace LocalPlayer
 {
 	//Localplayer return functions
 	extern DWORD			getLocalPlayer();												//Get the local player base address
-	extern DWORD			getLocalPlayerEng();
+	//extern DWORD			getLocalPlayerEng();
 	extern D3DXVECTOR3		getLocalViewAngles();
 	extern void				setLocalViewAngles(D3DXVECTOR3 angles);
 	//extern D3DXVECTOR3		getLocalPos();
 	extern D3DXVECTOR3		getAbsolutePos();
 	extern void				setLocalPlayer();												//Set the local player base address
-	extern void				setLocalPlayerEng();
+	//extern void				setLocalPlayerEng();
 	extern D3DXVECTOR3		getLocalPunchAngles();
 	extern int				getLocalFlags();												//Get the local player flags
 	extern int				getLocalHealth();												//Get the local player health
@@ -32,7 +32,7 @@ namespace LocalPlayer
 	extern int				getFlashMaxAlpha();
 	extern void				setFlashMaxAlpha();
 	extern D3DXVECTOR3		getLocalPos();													//Get the local player pos
-	extern D3DXMATRIX		getViewMatrix();												//Get the view matrix
+	extern D3DXMATRIX		getLocalViewMatrix();												//Get the view matrix
 	extern bool				IsGrenade(int classID);
 																							//Void functions 
 	extern void				forceJump();													//Force the local player to jump

@@ -1,18 +1,23 @@
 // dear imgui - standalone example application for DirectX 11
 // If you are new to dear imgui, see examples/README.txt and documentation at the top of imgui.cpp.
 #include "Includes.h"
-#include "ImGui/imgui.h"
-#include "ImGui/imgui_impl_win32.h"
-#include "ImGui/imgui_impl_dx11.h"
+#include <sstream>
+#include "imgui.h"
+#include "imgui_impl_win32.h"
+#include "imgui_impl_dx11.h"
 #include <d3d11.h>
 #define DIRECTINPUT_VERSION 0x0800
 #include <dinput.h>
 #include <tchar.h>
 #include <stdio.h>
 #include <string>
+#include <iomanip>
 #include "RCS.h"
+#include <io.h>
+#include <fcntl.h>
+#include "JSON.h"
 #pragma comment(lib, "urlmon.lib")
-
+#include "lolz.hpp"
 
 char BunnyINI[50];
 char FireINI[50];
@@ -20,6 +25,8 @@ char WallINI[50];
 char TriggerINI[50];
 char FlashINI[50];
 char RadarINI[50];
+
+//Maaritellyt 
 
 enum SigOnState
 {
@@ -77,372 +84,337 @@ void dankmemeforthewin()
 	pJunkcode = 4390751390453;
 	if (pJunkcode = 1739342425)
 		pJunkcode = 18345132543425;
-	pJunkcode = 173242319848965;
+	pJunkcode = 171112313231248965;
+	pJunkcode = 4387764556616534;
+	pJunkcode = 100123142319848965;
+	pJunkcode = 433321113416534;
+	pJunkcode = 1738674329848965;
 	pJunkcode = 435329513416534;
 	if (pJunkcode = 33871236541842354);
 	pJunkcode = 26112365478948946;
 	pJunkcode = 438875422112;
+	pJunkcode = 173242319848965;
+	pJunkcode = 43532332323416534;
+	pJunkcode = 17324123131848965;
+	pJunkcode = 4353291928834;
 }
 
-class bzuelum {
+#include <stdio.h>
+#include <string>
+#include <iostream>
+
+using namespace std;
+
+class wymxcev {
 public:
-	double uzwcnvurcg;
-	int ukobmuxseoyom;
-	int judedcrddc;
-	bzuelum();
-	int pwhecakckwd(string zuaprqhbuaju, string tymvmbahn);
+	string mwjzuplsbcpd;
+	int zjdruaicp;
+	bool dbzcujaxqmf;
+	wymxcev();
+	void timqudekanmjejoxsrk(bool jtdjtg, bool rzxdh, int hinfam, double kfchwrkaqcxh, bool etakumaatasajw, string ldlbxrc, double lvyxuqxo);
+	int spntqtxyudwvmu(bool ofhtyxgndymhlsl, string ieurpiqsoncjzu, string qinnawbb);
 
 protected:
-	double kuhlxjqno;
-	string gvcmffkjnauq;
-	int zhktjwfhmzhadd;
-	double tyljvrvx;
+	int ucals;
+	int cxfvsaxgf;
 
-	void tjsczztvcudtyph(bool ggvpvzqjbqsc, double ihvgpnvidwqjygu, string wyndxcrolpnvj, double kpilic, double gijqmjzk, bool lfcetlryxbfah);
-	int ehgoyipphczkveqhsgnpq(double clqormajdom, string dlplnlngnvhnzd, double xjdlnxy, double ubrvt);
-	int pbwawtosfmjknja(double omrqs, int pbestbz, int kusvvopw, bool uawtll, string qwkcxnfsdwu, double pjzvpjajrsmpd, int ezamqzw, bool zltvojzxn, bool ammttqbzlktqih);
-	void itizxdukqnbxn(double veabvplmcwblmyg, double ywdtiekkvdw, int gvjixpn, bool vhfjy, int lffotabrnfm, int agjqktaxaxteoye, int nvoflbkb, double qpdormjhcu, bool hhpgowwiwyd);
-	void dapgzzjnxsi(bool khovlc, int sruyz, bool cqijn, bool gshqlpewbfno, double esdddv, double btvrhijwbvps, int wkobpwg, string llghvfdacigih);
+	string ilklervlzopdodlu(bool fspghijnxng, int ocqgdzlht, string nhedqtcsbtp, string hexwbxcnbv);
+	bool wdixxvntogbhhoje(bool mpnqq, double twvkhy, string kdmhjdexnksgqjz, double ltpgc, string ajndiskpwubnf);
+	void chwjvgrsjeovjtbyw(int dgceeybikye, int tnkfglwdhuk, double xxkrvdt);
+	double azxmavfykonbavnhkxgfsx(int bnzfbxo, bool zuvuwljkgongtaz, int okeuwqk, bool mivorbrbfh, int onzgmqkjfrmsw, string prngzqxbilh, string lequpzwapdn);
+	string uwisfxxaaocueufdwwjw(double ggnye, int evdvls);
+	double eedvmvrknnutdwwe(double iaimfhcbkn, bool eczczjie, string bqzxrdnipq, int bcrnxlz, double bhspht, int hievvysp);
+	string lfuecjskkqjmlclewznikcaj(int prmwa, string docyvseq, int lqfrtocz, double igkvuh, double glrxz, bool asxczixxdwn, bool yxkeodxyi, int ozvlgpjzmqvimdg, double oqmcbnweyfkbvj);
+	bool pxpcpbyeablzgrat(int ymacnkebhrxxaij, double blqlcqnkxxl, int nwgilvmulv, int nkgeekvgk, string gmorwioiv);
+	int prrpmiwctpevmpehsnjtsyxew(double xgsfggscuawd);
 
 private:
-	int wezjcrrbur;
-	double dnkfazowuawtpa;
-	int vqkfvluewzlbok;
-	bool bjuanzxhmlotcc;
+	int gnbydhcnmixccy;
+	double doexusxpexzckat;
+	bool vcybsovdrrczjv;
+	int afiavc;
 
-	bool dcxbtwmurm(bool vusvykydaiu, string ckxrfpsa, string tjpee, double txruwq, int hnwtuyfqutx);
-	int rgdybhvcypjt();
-	bool xevwuekivysw(string cxjho, double xvdsujf, string ilnbtrnpd);
-	double fkaslfnxny(double slncxbg, bool yddsf, bool srgwgsf, bool vznnbgkkbukx);
-	double pzukzvymbgpyqwiozxnppnoko(int anzurubnyi, int zgyksnpathjajs, int lzaxngctmltjlnz, int joifnnfydumjtif, double kmoexiziulhl, double sdsvpeitsq, int evkay, string wvlkfscq);
-	void llsolueopwlxkyavwhmyeekjo(bool bynugcfpnekjvm, string khxzycnvhqymqx, double rxwkrmusmko, string drwenasuorbwai, bool ohbustjivdkreh, bool oqzjey, bool dlxsyjmdru, int lillpt);
-	bool dyxcdlpfwactxdgfbeokh(int efyvxuuix, double alrhapmd);
+	void cptiyqqdeaqdhps(string yozdwhoj, bool dbejouokct, int wmgpzg, bool kmifrzguedh, double qxfsdyy, string xpwpvhkhsgkifli, int sfzrhtxieq, double jqmevfljvbb);
 
 };
 
 
-bool bzuelum::dcxbtwmurm(bool vusvykydaiu, string ckxrfpsa, string tjpee, double txruwq, int hnwtuyfqutx) {
-	double vqpxfvoodcbkeaf = 15719;
-	bool dbjiyx = true;
-	double yjjzbncvummdlgy = 25611;
-	string nsnlz = "cikakxwgiamvwjmuxtfasrfaxdnkbbhmpgyeowiqljovfwvezwxavurarvxkrlyjsibdpaqvibgxosfgyaaz";
-	double vaarmzbzfngetzt = 12552;
-	string vhrlesyqe = "nqalxdvgayvfnhjcwdmuqeddboxzxbttnjiwgjpdezuabnn";
-	int rckbbatvcgkuvl = 3866;
-	if (25611 != 25611) {
-		int zagukdpv;
-		for (zagukdpv = 72; zagukdpv > 0; zagukdpv--) {
+void wymxcev::cptiyqqdeaqdhps(string yozdwhoj, bool dbejouokct, int wmgpzg, bool kmifrzguedh, double qxfsdyy, string xpwpvhkhsgkifli, int sfzrhtxieq, double jqmevfljvbb) {
+	string qbcbhgfhfvlhzx = "jaownujewatwzwchoftgvhjzzqoxoyeivt";
+	bool rgslghuu = false;
+	bool wqpmp = false;
+	if (false != false) {
+		int vvogxowj;
+		for (vvogxowj = 89; vvogxowj > 0; vvogxowj--) {
 			continue;
 		}
 	}
+	if (false != false) {
+		int nqr;
+		for (nqr = 16; nqr > 0; nqr--) {
+			continue;
+		}
+	}
+	if (false != false) {
+		int uz;
+		for (uz = 96; uz > 0; uz--) {
+			continue;
+		}
+	}
+	if (false != false) {
+		int rbfypu;
+		for (rbfypu = 8; rbfypu > 0; rbfypu--) {
+			continue;
+		}
+	}
+	if (false == false) {
+		int dhxm;
+		for (dhxm = 52; dhxm > 0; dhxm--) {
+			continue;
+		}
+	}
+
+}
+
+string wymxcev::ilklervlzopdodlu(bool fspghijnxng, int ocqgdzlht, string nhedqtcsbtp, string hexwbxcnbv) {
+	return string("dlfkbimxryadqdrwju");
+}
+
+bool wymxcev::wdixxvntogbhhoje(bool mpnqq, double twvkhy, string kdmhjdexnksgqjz, double ltpgc, string ajndiskpwubnf) {
+	string ocntucgzhzgu = "haomllozajudfzwlknlkhwdfopztyrahszwirl";
+	string imwfiypnnnfeq = "kfrbxqlebxjdsijwfasjzkmmbksvcyxr";
+	string qmhlecdbnqbwu = "cbzzxwozfhqowmdiqdvscwkrgdfdeabersroujridkvgicvfvmqvmvvujlxantfpszatozmtmvbszjwtynh";
+	double ulbxvkdxjtgw = 5511;
+	string bxdekgtrhhfthk = "jnimmpublpfkpvwvzkhmlbtskswuekpnfnecsprjjiwzse";
+	double gybfzoenp = 38528;
+	double xxodgpdvjmhqssq = 11010;
+	if (string("kfrbxqlebxjdsijwfasjzkmmbksvcyxr") != string("kfrbxqlebxjdsijwfasjzkmmbksvcyxr")) {
+		int yctryyze;
+		for (yctryyze = 89; yctryyze > 0; yctryyze--) {
+			continue;
+		}
+	}
+	return true;
+}
+
+void wymxcev::chwjvgrsjeovjtbyw(int dgceeybikye, int tnkfglwdhuk, double xxkrvdt) {
+
+}
+
+double wymxcev::azxmavfykonbavnhkxgfsx(int bnzfbxo, bool zuvuwljkgongtaz, int okeuwqk, bool mivorbrbfh, int onzgmqkjfrmsw, string prngzqxbilh, string lequpzwapdn) {
+	string ihqwczjflyec = "nydoskapfyqwbznexiojw";
+	bool hctreu = false;
+	string vbexosq = "tdjeyhhtwxqjlddgbmugnulkjiuurjqlggfxdbsnhyawgbrxuwjgqljyqalhukrgaypteklhpvpiwtemmlupgxsahpwrietbljrn";
+	int acsdbtbmnkroi = 847;
+	bool bofbimgqejq = false;
+	bool xvlgccuci = true;
+	int oeizmrp = 810;
+	int bzkigbulcjs = 2244;
+	int ritsjmrulojdsdh = 1259;
+	double qrlzxleq = 63348;
 	if (true == true) {
-		int gzrf;
-		for (gzrf = 94; gzrf > 0; gzrf--) {
+		int wmn;
+		for (wmn = 42; wmn > 0; wmn--) {
 			continue;
 		}
 	}
-	return false;
+	if (string("tdjeyhhtwxqjlddgbmugnulkjiuurjqlggfxdbsnhyawgbrxuwjgqljyqalhukrgaypteklhpvpiwtemmlupgxsahpwrietbljrn") == string("tdjeyhhtwxqjlddgbmugnulkjiuurjqlggfxdbsnhyawgbrxuwjgqljyqalhukrgaypteklhpvpiwtemmlupgxsahpwrietbljrn")) {
+		int yxsdbsbqoj;
+		for (yxsdbsbqoj = 20; yxsdbsbqoj > 0; yxsdbsbqoj--) {
+			continue;
+		}
+	}
+	if (63348 != 63348) {
+		int xjkbchlddv;
+		for (xjkbchlddv = 36; xjkbchlddv > 0; xjkbchlddv--) {
+			continue;
+		}
+	}
+	if (2244 == 2244) {
+		int cgkpiu;
+		for (cgkpiu = 41; cgkpiu > 0; cgkpiu--) {
+			continue;
+		}
+	}
+	return 10941;
 }
 
-int bzuelum::rgdybhvcypjt() {
-	double iglkbpc = 39111;
-	double whpedogixd = 2856;
-	string gwolcdzcm = "cevtwdzlocaxgllnztyoyxjxkjabsccdxzfxazssupjurdqrjflenrmwotiqkichffnnzboprcczeqsllnfzkpvmpnwacssxg";
-	return 12742;
-}
-
-bool bzuelum::xevwuekivysw(string cxjho, double xvdsujf, string ilnbtrnpd) {
-	double pxero = 30937;
-	double kfpxgxegaagwel = 24985;
-	bool bibtvdeoqckqqf = true;
-	double smuxw = 89842;
-	bool lblmdhbtuonwpd = true;
-	bool jcelhxsofrqj = true;
-	bool uupyrxkzn = true;
-	double avcvjjjdefqwi = 46292;
-	bool lyzvwoo = true;
-	int sowrozepbakray = 4795;
+string wymxcev::uwisfxxaaocueufdwwjw(double ggnye, int evdvls) {
+	double tiumstwuhmcbk = 16028;
+	int gusjfpo = 2695;
+	double yvcnlwivsav = 19883;
+	bool jzjtyufer = false;
+	string rpgtsn = "gxijled";
+	bool lepdqtln = true;
+	double mqqknoer = 21606;
+	string xwxignyavdqtzhz = "lcdtljsagblbphyklaypdzygxvukwhvwomgwzjlwfbhnrhioqoxkaskfrduoanemnvmeqrhbxnfayweeibuiwx";
+	int djedhxxwgfj = 356;
+	if (string("gxijled") != string("gxijled")) {
+		int qogoj;
+		for (qogoj = 70; qogoj > 0; qogoj--) {
+			continue;
+		}
+	}
+	if (16028 == 16028) {
+		int au;
+		for (au = 96; au > 0; au--) {
+			continue;
+		}
+	}
+	if (string("lcdtljsagblbphyklaypdzygxvukwhvwomgwzjlwfbhnrhioqoxkaskfrduoanemnvmeqrhbxnfayweeibuiwx") != string("lcdtljsagblbphyklaypdzygxvukwhvwomgwzjlwfbhnrhioqoxkaskfrduoanemnvmeqrhbxnfayweeibuiwx")) {
+		int coauhzvwsh;
+		for (coauhzvwsh = 71; coauhzvwsh > 0; coauhzvwsh--) {
+			continue;
+		}
+	}
 	if (true != true) {
-		int rrvpwxiiy;
-		for (rrvpwxiiy = 19; rrvpwxiiy > 0; rrvpwxiiy--) {
+		int vfda;
+		for (vfda = 21; vfda > 0; vfda--) {
 			continue;
 		}
 	}
-	if (89842 != 89842) {
-		int uzvuj;
-		for (uzvuj = 4; uzvuj > 0; uzvuj--) {
-			continue;
-		}
-	}
-	return false;
+	return string("kuzwfzmdprbbf");
 }
 
-double bzuelum::fkaslfnxny(double slncxbg, bool yddsf, bool srgwgsf, bool vznnbgkkbukx) {
-	double bfxgj = 5138;
-	bool cmaiz = true;
-	if (5138 != 5138) {
-		int huhvf;
-		for (huhvf = 30; huhvf > 0; huhvf--) {
+double wymxcev::eedvmvrknnutdwwe(double iaimfhcbkn, bool eczczjie, string bqzxrdnipq, int bcrnxlz, double bhspht, int hievvysp) {
+	return 81428;
+}
+
+string wymxcev::lfuecjskkqjmlclewznikcaj(int prmwa, string docyvseq, int lqfrtocz, double igkvuh, double glrxz, bool asxczixxdwn, bool yxkeodxyi, int ozvlgpjzmqvimdg, double oqmcbnweyfkbvj) {
+	bool nabssxbkb = false;
+	string kjimjgzxt = "syqhwxwhnrxyxrphxdvogsdhmkoorrezsyyhbxftcwhagtmkzlruslppnalsk";
+	double jshorbywosumdh = 10850;
+	bool kocjerunewafhy = true;
+	int mnpkbegmyyl = 3493;
+	string eektdrihkg = "dotxmmblsdqmquugsnhflvwjfcqnnphdhebrovxelvprdlkkukjlxlzgorlexa";
+	double pifojryfpfegxgp = 24316;
+	string crqaedtzc = "fpfwoqnuhdcrxjyczpgdvyzbmbedg";
+	if (10850 == 10850) {
+		int vh;
+		for (vh = 86; vh > 0; vh--) {
 			continue;
 		}
 	}
-	if (5138 != 5138) {
-		int moaqhwsmyg;
-		for (moaqhwsmyg = 89; moaqhwsmyg > 0; moaqhwsmyg--) {
+	if (3493 != 3493) {
+		int zqh;
+		for (zqh = 26; zqh > 0; zqh--) {
 			continue;
 		}
 	}
-	if (5138 != 5138) {
-		int eygyh;
-		for (eygyh = 39; eygyh > 0; eygyh--) {
+	if (string("syqhwxwhnrxyxrphxdvogsdhmkoorrezsyyhbxftcwhagtmkzlruslppnalsk") == string("syqhwxwhnrxyxrphxdvogsdhmkoorrezsyyhbxftcwhagtmkzlruslppnalsk")) {
+		int qngjvzkizd;
+		for (qngjvzkizd = 40; qngjvzkizd > 0; qngjvzkizd--) {
 			continue;
 		}
 	}
-	if (5138 == 5138) {
-		int nhzesyikzo;
-		for (nhzesyikzo = 9; nhzesyikzo > 0; nhzesyikzo--) {
+	if (string("fpfwoqnuhdcrxjyczpgdvyzbmbedg") == string("fpfwoqnuhdcrxjyczpgdvyzbmbedg")) {
+		int aehyix;
+		for (aehyix = 61; aehyix > 0; aehyix--) {
 			continue;
 		}
 	}
+	return string("atni");
+}
+
+bool wymxcev::pxpcpbyeablzgrat(int ymacnkebhrxxaij, double blqlcqnkxxl, int nwgilvmulv, int nkgeekvgk, string gmorwioiv) {
+	return true;
+}
+
+int wymxcev::prrpmiwctpevmpehsnjtsyxew(double xgsfggscuawd) {
+	int vgxtrjgnddox = 5928;
+	int nwzsxzdngyo = 1922;
+	double gfcaldqspvloksm = 41914;
+	int bjymobiukthpj = 799;
+	int ztsgzqyw = 1170;
+	if (5928 == 5928) {
+		int xnnq;
+		for (xnnq = 62; xnnq > 0; xnnq--) {
+			continue;
+		}
+	}
+	if (1922 == 1922) {
+		int dt;
+		for (dt = 90; dt > 0; dt--) {
+			continue;
+		}
+	}
+	if (799 == 799) {
+		int mgiuvgm;
+		for (mgiuvgm = 71; mgiuvgm > 0; mgiuvgm--) {
+			continue;
+		}
+	}
+	if (1170 != 1170) {
+		int wnrl;
+		for (wnrl = 28; wnrl > 0; wnrl--) {
+			continue;
+		}
+	}
+	return 98699;
+}
+
+void wymxcev::timqudekanmjejoxsrk(bool jtdjtg, bool rzxdh, int hinfam, double kfchwrkaqcxh, bool etakumaatasajw, string ldlbxrc, double lvyxuqxo) {
+	double odotsvxqkbcyhjk = 7764;
+	double dvtmkeqyjwgqgmp = 13190;
+	int qmouryd = 124;
+	int abzdqvul = 116;
+	int mbsjydpeutblp = 4414;
+	bool sjsxsnszo = true;
+	int gkxiweimpgr = 1257;
+	int lguhipesjglzzg = 1058;
+	string coctds = "llgbesgrzbvelhqbhmwyfwmayikrunfcblnqkzdrakzrgesamzwxxyfaxuqxzmwjcbvhikgqwgmcamekzbguytzrxtmmruff";
+	string enmti = "ywuzufo";
+	if (1257 == 1257) {
+		int ku;
+		for (ku = 32; ku > 0; ku--) {
+			continue;
+		}
+	}
+	if (13190 == 13190) {
+		int agcemqsoc;
+		for (agcemqsoc = 27; agcemqsoc > 0; agcemqsoc--) {
+			continue;
+		}
+	}
+
+}
+
+int wymxcev::spntqtxyudwvmu(bool ofhtyxgndymhlsl, string ieurpiqsoncjzu, string qinnawbb) {
+	int hfqyvetmq = 2933;
+	bool sshpisrxaxbamp = true;
+	double gjvovlkshi = 13317;
+	bool vxdxb = true;
 	if (true == true) {
-		int ey;
-		for (ey = 72; ey > 0; ey--) {
+		int zbwxeli;
+		for (zbwxeli = 29; zbwxeli > 0; zbwxeli--) {
 			continue;
 		}
 	}
-	return 21424;
+	if (true != true) {
+		int fxumdcyuk;
+		for (fxumdcyuk = 83; fxumdcyuk > 0; fxumdcyuk--) {
+			continue;
+		}
+	}
+	return 27944;
 }
 
-double bzuelum::pzukzvymbgpyqwiozxnppnoko(int anzurubnyi, int zgyksnpathjajs, int lzaxngctmltjlnz, int joifnnfydumjtif, double kmoexiziulhl, double sdsvpeitsq, int evkay, string wvlkfscq) {
-	double woaxn = 443;
-	string jdlsnqedb = "kuzeovjhzn";
-	string oizyzm = "rhvjaoamjmbjfmlsasgbbzqrvvaevjbd";
-	bool wscittlbf = false;
-	bool sfxsvj = true;
-	int vkyteytdzvkj = 2633;
-	int nvfdxx = 112;
-	string vehodeecb = "izvddrflawsgtpxhftndl";
-	if (false != false) {
-		int dy;
-		for (dy = 34; dy > 0; dy--) {
-			continue;
-		}
-	}
-	if (true == true) {
-		int sclnzgr;
-		for (sclnzgr = 87; sclnzgr > 0; sclnzgr--) {
-			continue;
-		}
-	}
-	if (string("rhvjaoamjmbjfmlsasgbbzqrvvaevjbd") != string("rhvjaoamjmbjfmlsasgbbzqrvvaevjbd")) {
-		int sueewahah;
-		for (sueewahah = 43; sueewahah > 0; sueewahah--) {
-			continue;
-		}
-	}
-	if (112 != 112) {
-		int efsjcvtz;
-		for (efsjcvtz = 34; efsjcvtz > 0; efsjcvtz--) {
-			continue;
-		}
-	}
-	if (false != false) {
-		int jfzjabo;
-		for (jfzjabo = 49; jfzjabo > 0; jfzjabo--) {
-			continue;
-		}
-	}
-	return 38479;
+wymxcev::wymxcev() {
+	this->timqudekanmjejoxsrk(false, true, 3600, 60122, false, string("kqbd"), 7695);
+	this->spntqtxyudwvmu(false, string("hvduogtkxfeegijsdegcaoduvhjulfnvlewjzyhxszkbdovaleqogyqrcndfnlyelomhnlifwofiojpguzjgsoibovauymsejbf"), string("zdbpgnubyyodvswwbwzictnzvvnxxxbgtruyyqxrvmojzbyqdjxhpwwdndamujtpmtnzmcnpwyaqctnpvpau"));
+	this->ilklervlzopdodlu(true, 1944, string("ofmtswxmyzarxqprmsyfucwztyfkyfobmqjddwioeoujoxxfgrutltmlcjrjoszdmlcydxczepkkwmluhu"), string("dptkpf"));
+	this->wdixxvntogbhhoje(true, 32061, string("snib"), 16073, string("asuydjwxvwafzpajeazpoaexnplwztzuligxycehlgoyvrnklvifoaewbjkqjbpsbisrwq"));
+	this->chwjvgrsjeovjtbyw(243, 1955, 76592);
+	this->azxmavfykonbavnhkxgfsx(7254, false, 276, true, 3366, string("ojhnlnfiellxnxyeksbsak"), string("bjnoytmazgxbctakmwqvvzifonlcojbxxyidqnanbfyazvegusbsbeuzlzbbhuqtzrhiexjcywfoz"));
+	this->uwisfxxaaocueufdwwjw(25451, 349);
+	this->eedvmvrknnutdwwe(1681, true, string("sshivwy"), 469, 62965, 1017);
+	this->lfuecjskkqjmlclewznikcaj(2728, string("fw"), 6005, 37832, 46762, false, true, 3299, 805);
+	this->pxpcpbyeablzgrat(7414, 1360, 100, 3379, string("fadxdzodtxenkeczywfhpfcyk"));
+	this->prrpmiwctpevmpehsnjtsyxew(1346);
+	this->cptiyqqdeaqdhps(string("jwgnjovmrahsxqffncghvkjv"), true, 888, true, 28234, string("dpdxspfzgnkgrijsbhkmjaxac"), 2306, 1191);
 }
 
-void bzuelum::llsolueopwlxkyavwhmyeekjo(bool bynugcfpnekjvm, string khxzycnvhqymqx, double rxwkrmusmko, string drwenasuorbwai, bool ohbustjivdkreh, bool oqzjey, bool dlxsyjmdru, int lillpt) {
-	int mtremevy = 3839;
-	string jategls = "wgvxjlpnxnztxwsrnshsmulovzqkgcokbgijqnpheowivrdnyw";
-	double tlrmhl = 968;
-	double mcafgnlaxpeg = 46924;
-	string kgdzzsefihn = "ukidlvjyolhgufwtnvyolfjmvkheluszccqlsjyrhptamniolxgcutxhszrk";
-	bool slkjfjuvvp = false;
-	if (3839 != 3839) {
-		int ddcyx;
-		for (ddcyx = 95; ddcyx > 0; ddcyx--) {
-			continue;
-		}
-	}
 
-}
-
-bool bzuelum::dyxcdlpfwactxdgfbeokh(int efyvxuuix, double alrhapmd) {
-	int sellkylhgnd = 4743;
-	bool knmoph = false;
-	double nzlmevxyfyw = 69337;
-	string toegkjvmfjcfk = "mxqnjxaiyvwibbprydxigbeqevnmzdwxufsfzohyxoesyqjcqjrjzjnyjiwesexyfyjknnsfmgpurqblbzcigigemszqjxzokx";
-	string tzxks = "atbvydfskjgjoybgwrlaftub";
-	if (string("atbvydfskjgjoybgwrlaftub") == string("atbvydfskjgjoybgwrlaftub")) {
-		int ond;
-		for (ond = 58; ond > 0; ond--) {
-			continue;
-		}
-	}
-	if (string("atbvydfskjgjoybgwrlaftub") == string("atbvydfskjgjoybgwrlaftub")) {
-		int zhg;
-		for (zhg = 60; zhg > 0; zhg--) {
-			continue;
-		}
-	}
-	if (string("atbvydfskjgjoybgwrlaftub") != string("atbvydfskjgjoybgwrlaftub")) {
-		int nanfe;
-		for (nanfe = 9; nanfe > 0; nanfe--) {
-			continue;
-		}
-	}
-	return false;
-}
-
-void bzuelum::tjsczztvcudtyph(bool ggvpvzqjbqsc, double ihvgpnvidwqjygu, string wyndxcrolpnvj, double kpilic, double gijqmjzk, bool lfcetlryxbfah) {
-	int tpitbserlxzav = 6499;
-	if (6499 == 6499) {
-		int lbs;
-		for (lbs = 7; lbs > 0; lbs--) {
-			continue;
-		}
-	}
-
-}
-
-int bzuelum::ehgoyipphczkveqhsgnpq(double clqormajdom, string dlplnlngnvhnzd, double xjdlnxy, double ubrvt) {
-	int dzoqqoisr = 5578;
-	string qflbfreu = "bbez";
-	int dbiqtuneajsibsl = 4209;
-	double uddczmjpf = 48942;
-	bool vkdstm = false;
-	bool fsdptmqqi = true;
-	bool gyxichi = false;
-	if (false != false) {
-		int fpamj;
-		for (fpamj = 56; fpamj > 0; fpamj--) {
-			continue;
-		}
-	}
-	if (4209 == 4209) {
-		int xbrdyga;
-		for (xbrdyga = 72; xbrdyga > 0; xbrdyga--) {
-			continue;
-		}
-	}
-	if (false != false) {
-		int axqpdpmknz;
-		for (axqpdpmknz = 69; axqpdpmknz > 0; axqpdpmknz--) {
-			continue;
-		}
-	}
-	if (48942 != 48942) {
-		int uvpgpmergn;
-		for (uvpgpmergn = 77; uvpgpmergn > 0; uvpgpmergn--) {
-			continue;
-		}
-	}
-	return 49254;
-}
-
-int bzuelum::pbwawtosfmjknja(double omrqs, int pbestbz, int kusvvopw, bool uawtll, string qwkcxnfsdwu, double pjzvpjajrsmpd, int ezamqzw, bool zltvojzxn, bool ammttqbzlktqih) {
-	double iltugkj = 17529;
-	if (17529 != 17529) {
-		int rlaldgjnnf;
-		for (rlaldgjnnf = 28; rlaldgjnnf > 0; rlaldgjnnf--) {
-			continue;
-		}
-	}
-	if (17529 != 17529) {
-		int dgq;
-		for (dgq = 1; dgq > 0; dgq--) {
-			continue;
-		}
-	}
-	if (17529 == 17529) {
-		int ovqwn;
-		for (ovqwn = 30; ovqwn > 0; ovqwn--) {
-			continue;
-		}
-	}
-	if (17529 != 17529) {
-		int jcsw;
-		for (jcsw = 10; jcsw > 0; jcsw--) {
-			continue;
-		}
-	}
-	return 41098;
-}
-
-void bzuelum::itizxdukqnbxn(double veabvplmcwblmyg, double ywdtiekkvdw, int gvjixpn, bool vhfjy, int lffotabrnfm, int agjqktaxaxteoye, int nvoflbkb, double qpdormjhcu, bool hhpgowwiwyd) {
-	double iscsxirjwfg = 9860;
-	double ahsyndgsoh = 31325;
-	int lfdyeeauodz = 1359;
-	bool wvqijvpxqeb = false;
-	double jughbw = 6392;
-	double zbmekozvnh = 19130;
-	int yslobcvb = 738;
-	string grfmqtehx = "iwsyomvosonwzuaqbrchpoqjbklsmczmepfkhqeyfhaugrwgoxy";
-	bool lwfqvgtsmp = false;
-	if (19130 == 19130) {
-		int lwgcjaj;
-		for (lwgcjaj = 84; lwgcjaj > 0; lwgcjaj--) {
-			continue;
-		}
-	}
-
-}
-
-void bzuelum::dapgzzjnxsi(bool khovlc, int sruyz, bool cqijn, bool gshqlpewbfno, double esdddv, double btvrhijwbvps, int wkobpwg, string llghvfdacigih) {
-	string kaothjo = "rnoetpncpcjrmzklcuezzkzykjfidqokweonqjvmmantwwgayswowgwqqxazzldueyxnrhot";
-	if (string("rnoetpncpcjrmzklcuezzkzykjfidqokweonqjvmmantwwgayswowgwqqxazzldueyxnrhot") == string("rnoetpncpcjrmzklcuezzkzykjfidqokweonqjvmmantwwgayswowgwqqxazzldueyxnrhot")) {
-		int ezvvexenqt;
-		for (ezvvexenqt = 16; ezvvexenqt > 0; ezvvexenqt--) {
-			continue;
-		}
-	}
-
-}
-
-int bzuelum::pwhecakckwd(string zuaprqhbuaju, string tymvmbahn) {
-	int xmpnkguc = 878;
-	int epqsvgqoikjnsw = 1878;
-	double dbcmfhkyalbfx = 32891;
-	double xqozsldkecub = 56765;
-	string rfcvscdetvvml = "zyduiksudtkwofsofduqhucamhktethuikkxzndxcztikdaaiephpfzkwso";
-	double nllfb = 2743;
-	bool esnjbofomllry = false;
-	int arionjyciw = 5131;
-	int umyidmgmsntlp = 558;
-	if (56765 != 56765) {
-		int hcg;
-		for (hcg = 2; hcg > 0; hcg--) {
-			continue;
-		}
-	}
-	if (string("zyduiksudtkwofsofduqhucamhktethuikkxzndxcztikdaaiephpfzkwso") == string("zyduiksudtkwofsofduqhucamhktethuikkxzndxcztikdaaiephpfzkwso")) {
-		int ciksggulm;
-		for (ciksggulm = 62; ciksggulm > 0; ciksggulm--) {
-			continue;
-		}
-	}
-	return 8071;
-}
-
-bzuelum::bzuelum() {
-	this->pwhecakckwd(string("pzfahhffgkdvahxkcuhbjovj"), string("mxafuknhclsqenjb"));
-	this->tjsczztvcudtyph(true, 76766, string("kesbkhtcfizynjhcuihllwewpkuwqzdpfdalgydokouxykrtordqwjtrbqpminfw"), 55976, 57958, true);
-	this->ehgoyipphczkveqhsgnpq(25902, string("huwthpkihekmrunzvzfiobiadyzuqdtwkwcomlurxpcvwntfbleilkvndmrzvfuqlpnfiubrjwejybiqzrvlfqzbzuvqti"), 8208, 64939);
-	this->pbwawtosfmjknja(12188, 1279, 1305, true, string("alncgkvsraaxdzglmufbvmvhmmxztcvtmtkdbfcgebtqtcsmfmblulvdcboekmniyzpyz"), 53606, 970, false, false);
-	this->itizxdukqnbxn(57509, 1369, 607, true, 7166, 2551, 1646, 53278, false);
-	this->dapgzzjnxsi(true, 60, false, false, 53639, 7882, 2327, string("bnqcenjgxyyhtyv"));
-	this->dcxbtwmurm(true, string("wvgiekzhurq"), string("xshyakpaurpagtbkysugfgovfanmwbcqlpcpiegvobedxxmsbuthkhktdzwncqd"), 3299, 3116);
-	this->rgdybhvcypjt();
-	this->xevwuekivysw(string("ilqreaxkeixmwalwfnbqxpltjextvekcrjauwhbyqdugzshahzvqftjemhmnycbilttng"), 15731, string("itgtclbhycpqmxkeyppazjvyypjzflyvkibujdlonxcdirh"));
-	this->fkaslfnxny(16131, true, true, false);
-	this->pzukzvymbgpyqwiozxnppnoko(4821, 107, 4718, 4240, 7290, 51740, 882, string("hauytmzkseapfvqbpvlucxxvjehfnjuwkwwxcyiufykbiqyeirhqddtdkhbjozggeqcrfzxaxlicsnrsyppx"));
-	this->llsolueopwlxkyavwhmyeekjo(false, string("vzdfmvtdrruunqkatdupmvmfrnkdrlchzbznukrxkfwavbvcjabryfc"), 16187, string("wbbtvtlvktpyeugzczjwcrrsxuazepjdbfbfnzjqcospsmfjvifkfdhsqxeppmdxqwptozjynbqrzwvqzoahbkrz"), false, true, false, 1075);
-	this->dyxcdlpfwactxdgfbeokh(4973, 28966);
-}
 
 // Data
 static ID3D11Device*            g_pd3dDevice = NULL;
@@ -542,7 +514,7 @@ LRESULT WINAPI WndProc(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam)
 
 void ChangeClickability(bool canclick, HWND ownd)
 {
-	bzuelum::bzuelum();
+	wymxcev::wymxcev();
 	long style = GetWindowLong(ownd, GWL_EXSTYLE);
 	if (canclick) {
 		style &= ~WS_EX_LAYERED;
@@ -611,55 +583,12 @@ D3DXVECTOR3 getAnglesTo(DWORD playerToAim)
 		clampAngles(newAngle);
 
 		return newAngle;
-
-	}
-}
-
-DWORD getPlayerV2()
-{
-	double closest = 900;
-	DWORD plrToAim = NULL;
-
-	for (int i = 1; i < 32; i++)
-	{
-		auto base = Entity::getEntBase(i);
-
-		D3DXVECTOR3 anglesTo = getAnglesTo(base);
-		D3DXVECTOR3 currentAngles = LocalPlayer::getLocalViewAngles();
-		D3DXVECTOR3 angleDifference;
-
-		if (Entity::getEntTeam(base) != LocalPlayer::getLocalTeam() && Entity::isValid(base) && !Entity::getEntImmunity(base))
-		{
-			angleDifference.x = currentAngles.x - anglesTo.x;
-			angleDifference.y = currentAngles.y - anglesTo.y;
-			float dist = sqrt(pow(angleDifference.x, 2) + pow(angleDifference.y, 2));
-			if (dist < closest)
-			{
-				closest = dist;
-				plrToAim = base;
-			}
-		}
-	}
-
-	return(plrToAim);
-}
-
-
-void aimbotV2(DWORD playerToAimAt)
-{
-	auto target = playerToAimAt;
-	D3DXVECTOR3 viewAngles = XOR(getAnglesTo(target));
-	D3DXVECTOR3 currentAngles = XOR(LocalPlayer::getLocalViewAngles());
-
-	if (Entity::getEntHp(target) > 0 && Entity::getEntTeam(target) != LocalPlayer::getLocalTeam() && Entity::isValid(target))
-	{
-		LocalPlayer::setLocalViewAngles(viewAngles);
 	}
 }
 
 int SigOnState()
 {
-	return rpm<int>(LocalPlayer::getLocalPlayerEng() + 0x108);
+	return rpm<int>(clientState + g_offsets::dwClientState_State);
 }
 
 bool Parser(char Parse[]){
@@ -670,17 +599,166 @@ bool Parser(char Parse[]){
 		return false;
 }
 
+void update()
+{
+	HRESULT hr = URLDownloadToFile(NULL, _T("https://raw.githubusercontent.com/frk1/hazedumper/master/csgo.json"), _T("netvars.json"), 0, NULL);
+	if (hr != S_OK) {
+		MessageBoxA(NULL, "Error occoured on connection to github!", "Error", 0);
+		exit(0);
+	}
+	FILE* infile = fopen("netvars.json", "r");
+	fseek(infile, 0, SEEK_END);
+	long filesize = ftell(infile);
+	char* buf = new char[filesize + 1];
+	fseek(infile, 0, SEEK_SET);
+	fread(buf, 1, filesize, infile);
+	fclose(infile);
+	buf[filesize] = '\0';
+	std::stringstream ss;
+	ss.str(buf);
+	delete[] buf;
+	Json::Value netvars;
+	ss >> netvars;
+	g_offsets::dwLocalPlayer = netvars["signatures"]["dwLocalPlayer"].asInt();
+	g_offsets::clientstate_choked_commands = netvars["signatures"]["clientstate_choked_commands"].asInt();
+	g_offsets::dwForceAttack = netvars["signatures"]["dwForceAttack"].asInt();
+	g_offsets::m_bDormant = netvars["signatures"]["m_bDormant"].asInt();
+	g_offsets::dwForceJump = netvars["signatures"]["dwForceJump"].asInt();
+	g_offsets::dwGlowObjectManager = netvars["signatures"]["dwGlowObjectManager"].asInt();
+	g_offsets::clientstate_delta_ticks = netvars["signatures"]["clientstate_delta_ticks"].asInt();
+	g_offsets::clientstate_last_outgoing_command = netvars["signatures"]["clientstate_last_outgoing_command"].asInt();
+	g_offsets::clientstate_net_channel = netvars["signatures"]["clientstate_net_channel"].asInt();
+	g_offsets::convar_name_hash_table = netvars["signatures"]["convar_name_hash_table"].asInt();
+	g_offsets::dwClientState = netvars["signatures"]["dwClientState"].asInt();
+	g_offsets::dwClientState_GetLocalPlayer = netvars["signatures"]["dwClientState_GetLocalPlayer"].asInt();
+	g_offsets::dwClientState_IsHLTV = netvars["signatures"]["dwClientState_IsHLTV"].asInt();
+	g_offsets::dwClientState_Map = netvars["signatures"]["dwClientState_Map"].asInt();
+	g_offsets::dwClientState_MapDirectory = netvars["signatures"]["dwClientState_MapDirectory"].asInt();
+	g_offsets::dwClientState_MaxPlayer = netvars["signatures"]["dwClientState_MaxPlayer"].asInt();
+	g_offsets::dwClientState_PlayerInfo = netvars["signatures"]["dwClientState_PlayerInfo"].asInt();
+	g_offsets::dwClientState_State = netvars["signatures"]["dwClientState_State"].asInt();
+	g_offsets::dwClientState_ViewAngles = netvars["signatures"]["dwClientState_ViewAngles"].asInt();
+	g_offsets::dwEntityList = netvars["signatures"]["dwEntityList"].asInt();
+	g_offsets::dwForceAttack = netvars["signatures"]["dwForceAttack"].asInt();
+	g_offsets::dwForceAttack2 = netvars["signatures"]["dwForceAttack2"].asInt();
+	g_offsets::dwForceBackward = netvars["signatures"]["dwForceBackward"].asInt();
+	g_offsets::dwForceForward = netvars["signatures"]["dwForceForward"].asInt();
+	g_offsets::dwForceJump = netvars["signatures"]["dwForceJump"].asInt();
+	g_offsets::dwForceLeft = netvars["signatures"]["dwForceLeft"].asInt();
+	g_offsets::dwForceRight = netvars["signatures"]["dwForceRight"].asInt();
+	g_offsets::dwGameDir = netvars["signatures"]["dwGameDir"].asInt();
+	g_offsets::dwGameRulesProxy = netvars["signatures"]["dwGameRulesProxy"].asInt();
+	g_offsets::dwGetAllClasses = netvars["signatures"]["dwGetAllClasses"].asInt();
+	g_offsets::dwGlobalVars = netvars["signatures"]["dwGlobalVars"].asInt();
+	g_offsets::dwGlowObjectManager = netvars["signatures"]["dwGlowObjectManager"].asInt();
+	g_offsets::dwInput = netvars["signatures"]["dwInput"].asInt();
+	g_offsets::dwInterfaceLinkList = netvars["signatures"]["dwInterfaceLinkList"].asInt();
+	g_offsets::dwMouseEnable = netvars["signatures"]["dwMouseEnable"].asInt();
+	g_offsets::dwMouseEnablePtr = netvars["signatures"]["dwMouseEnablePtr"].asInt();
+	g_offsets::dwPlayerResource = netvars["signatures"]["dwPlayerResource"].asInt();
+	g_offsets::dwRadarBase = netvars["signatures"]["dwRadarBase"].asInt();
+	g_offsets::dwSensitivity = netvars["signatures"]["dwSensitivity"].asInt();
+	g_offsets::dwSensitivityPtr = netvars["signatures"]["dwSensitivityPtr"].asInt();
+	g_offsets::dwSetClanTag = netvars["signatures"]["dwSetClanTag"].asInt();
+	g_offsets::dwViewMatrix = netvars["signatures"]["dwViewMatrix"].asInt();
+	g_offsets::dwWeaponTable = netvars["signatures"]["dwWeaponTable"].asInt();
+	g_offsets::dwWeaponTableIndex = netvars["signatures"]["dwWeaponTableIndex"].asInt();
+	g_offsets::dwYawPtr = netvars["signatures"]["dwYawPtr"].asInt();
+	g_offsets::dwZoomSensitivityRatioPtr = netvars["signatures"]["dwZoomSensitivityRatioPtr"].asInt();
+	g_offsets::dwbSendPackets = netvars["signatures"]["dwbSendPackets"].asInt();
+	g_offsets::dwppDirect3DDevice9 = netvars["signatures"]["dwppDirect3DDevice9"].asInt();
+	g_offsets::interface_engine_cvar = netvars["signatures"]["interface_engine_cvar"].asInt();
+	g_offsets::m_pStudioHdr = netvars["signatures"]["m_pStudioHdr"].asInt();
+	g_offsets::m_bDormant = netvars["signatures"]["m_bDormant"].asInt();
+	g_offsets::m_pitchClassPtr = netvars["signatures"]["m_pitchClassPtr"].asInt();
+	g_offsets::m_yawClassPtr = netvars["signatures"]["m_yawClassPtr"].asInt();
+	g_offsets::model_ambient_min = netvars["signatures"]["model_ambient_min"].asInt();
+
+	g_netvars::cs_gamerules_data = netvars["netvars"]["cs_gamerules_data"].asInt();
+	g_netvars::m_ArmorValue = netvars["netvars"]["m_ArmorValue"].asInt();
+	g_netvars::m_Collision = netvars["netvars"]["m_Collision"].asInt();
+	g_netvars::m_CollisionGroup = netvars["netvars"]["m_CollisionGroup"].asInt();
+	g_netvars::m_Local = netvars["netvars"]["m_Local"].asInt();
+	g_netvars::m_MoveType = netvars["netvars"]["m_MoveType"].asInt();
+	g_netvars::m_OriginalOwnerXuidHigh = netvars["netvars"]["m_OriginalOwnerXuidHigh"].asInt();
+	g_netvars::m_OriginalOwnerXuidLow = netvars["netvars"]["m_OriginalOwnerXuidLow"].asInt();
+	g_netvars::m_SurvivalGameRuleDecisionTypes = netvars["netvars"]["m_SurvivalGameRuleDecisionTypes"].asInt();
+	g_netvars::m_SurvivalRules = netvars["netvars"]["m_SurvivalRules"].asInt();
+	g_netvars::m_aimPunchAngle = netvars["netvars"]["m_aimPunchAngle"].asInt();
+	g_netvars::m_aimPunchAngleVel = netvars["netvars"]["m_aimPunchAngleVel"].asInt();
+	g_netvars::m_bBombPlanted = netvars["netvars"]["m_bBombPlanted"].asInt();
+	g_netvars::m_bFreezePeriod = netvars["netvars"]["m_bFreezePeriod"].asInt();
+	g_netvars::m_bGunGameImmunity = netvars["netvars"]["m_bGunGameImmunity"].asInt();
+	g_netvars::m_bHasDefuser = netvars["netvars"]["m_bHasDefuser"].asInt();
+	g_netvars::m_bHasHelmet = netvars["netvars"]["m_bHasHelmet"].asInt();
+	g_netvars::m_bInReload = netvars["netvars"]["m_bInReload"].asInt();
+	g_netvars::m_bIsDefusing = netvars["netvars"]["m_bIsDefusing"].asInt();
+	g_netvars::m_bIsQueuedMatchmaking = netvars["netvars"]["m_bIsQueuedMatchmaking"].asInt();
+	g_netvars::m_bIsScoped = netvars["netvars"]["m_bIsScoped"].asInt();
+	g_netvars::m_bIsValveDS = netvars["netvars"]["m_bIsValveDS"].asInt();
+	g_netvars::m_bSpotted = netvars["netvars"]["m_bSpotted"].asInt();
+	g_netvars::m_bSpottedByMask = netvars["netvars"]["m_bSpottedByMask"].asInt();
+	g_netvars::m_clrRender = netvars["netvars"]["m_clrRender"].asInt();
+	g_netvars::m_dwBoneMatrix = netvars["netvars"]["m_dwBoneMatrix"].asInt();
+	g_netvars::m_fAccuracyPenalty = netvars["netvars"]["m_fAccuracyPenalty"].asInt();
+	g_netvars::m_fFlags = netvars["netvars"]["m_fFlags"].asInt();
+	g_netvars::m_flC4Blow = netvars["netvars"]["m_flC4Blow"].asInt();
+	g_netvars::m_flDefuseCountDown = netvars["netvars"]["m_flDefuseCountDown"].asInt();
+	g_netvars::m_flDefuseLength = netvars["netvars"]["m_flDefuseLength"].asInt();
+	g_netvars::m_flFallbackWear = netvars["netvars"]["m_flFallbackWear"].asInt();
+	g_netvars::m_flFlashDuration = netvars["netvars"]["m_flFlashDuration"].asInt();
+	g_netvars::m_flFlashMaxAlpha = netvars["netvars"]["m_flFlashMaxAlpha"].asInt();
+	g_netvars::m_flNextPrimaryAttack = netvars["netvars"]["m_flNextPrimaryAttack"].asInt();
+	g_netvars::m_flTimerLength = netvars["netvars"]["m_flTimerLength"].asInt();
+	g_netvars::m_hActiveWeapon = netvars["netvars"]["m_hActiveWeapon"].asInt();
+	g_netvars::m_hMyWeapons = netvars["netvars"]["m_hMyWeapons"].asInt();
+	g_netvars::m_hObserverTarget = netvars["netvars"]["m_hObserverTarget"].asInt();
+	g_netvars::m_hOwner = netvars["netvars"]["m_hOwner"].asInt();
+	g_netvars::m_hOwnerEntity = netvars["netvars"]["m_hOwnerEntity"].asInt();
+	g_netvars::m_iAccountID = netvars["netvars"]["m_iAccountID"].asInt();
+	g_netvars::m_iClip1 = netvars["netvars"]["m_iClip1"].asInt();
+	g_netvars::m_iCompetitiveRanking = netvars["netvars"]["m_iCompetitiveRanking"].asInt();
+	g_netvars::m_iCompetitiveWins = netvars["netvars"]["m_iCompetitiveWins"].asInt();
+	g_netvars::m_iCrosshairId = netvars["netvars"]["m_iCrosshairId"].asInt();
+	g_netvars::m_iEntityQuality = netvars["netvars"]["m_iEntityQuality"].asInt();
+	g_netvars::m_iFOV = netvars["netvars"]["m_iFOV"].asInt();
+	g_netvars::m_iFOVStart = netvars["netvars"]["m_iFOVStart"].asInt();
+	g_netvars::m_iGlowIndex = netvars["netvars"]["m_iGlowIndex"].asInt();
+	g_netvars::m_iHealth = netvars["netvars"]["m_iHealth"].asInt();
+	g_netvars::m_iItemDefinitionIndex = netvars["netvars"]["m_iItemDefinitionIndex"].asInt();
+	g_netvars::m_iItemIDHigh = netvars["netvars"]["m_iItemIDHigh"].asInt();
+	g_netvars::m_iObserverMode = netvars["netvars"]["m_iObserverMode"].asInt();
+	g_netvars::m_iShotsFired = netvars["netvars"]["m_iShotsFired"].asInt();
+	g_netvars::m_iState = netvars["netvars"]["m_iState"].asInt();
+	g_netvars::m_iTeamNum = netvars["netvars"]["m_iTeamNum"].asInt();
+	g_netvars::m_lifeState = netvars["netvars"]["m_lifeState"].asInt();
+	g_netvars::m_nFallbackPaintKit = netvars["netvars"]["m_nFallbackPaintKit"].asInt();
+	g_netvars::m_nFallbackSeed = netvars["netvars"]["m_nFallbackSeed"].asInt();
+	g_netvars::m_nFallbackStatTrak = netvars["netvars"]["m_nFallbackStatTrak"].asInt();
+	g_netvars::m_nForceBone = netvars["netvars"]["m_nForceBone"].asInt();
+	g_netvars::m_nTickBase = netvars["netvars"]["m_nTickBase"].asInt();
+	g_netvars::m_rgflCoordinateFrame = netvars["netvars"]["m_rgflCoordinateFrame"].asInt();
+	g_netvars::m_szCustomName = netvars["netvars"]["m_szCustomName"].asInt();
+	g_netvars::m_szLastPlaceName = netvars["netvars"]["m_szLastPlaceName"].asInt();
+	g_netvars::m_thirdPersonViewAngles = netvars["netvars"]["m_thirdPersonViewAngles"].asInt();
+	g_netvars::m_vecOrigin = netvars["netvars"]["m_vecOrigin"].asInt();
+	g_netvars::m_vecVelocity = netvars["netvars"]["m_vecVelocity"].asInt();
+	g_netvars::m_vecViewOffset = netvars["netvars"]["m_vecViewOffset"].asInt();
+	g_netvars::m_viewPunchAngle = netvars["netvars"]["m_viewPunchAngle"].asInt();
+}
 
 int main(int, char**)
 {
+	D3D11_BLEND_DESC desc;
+	ZeroMemory(&desc, sizeof(desc));
+
 	LPCSTR curdir = _T("./Config.ini");
     // Create application window
-    WNDCLASSEX wc = { sizeof(WNDCLASSEX), CS_CLASSDC, WndProc, 0L, 0L, GetModuleHandle(NULL), NULL, NULL, NULL, NULL, _T("ImGui Example"), NULL };
+    WNDCLASSEX wc = { sizeof(WNDCLASSEX), CS_HREDRAW | CS_VREDRAW, WndProc, 0, 0, GetModuleHandle(NULL), LoadIcon(NULL, IDI_APPLICATION), LoadCursor(NULL, IDC_ARROW), (HBRUSH)CreateSolidBrush(RGB(0, 0, 0)), NULL, _T("ImGui Example"), NULL };
     RegisterClassEx(&wc);
-	XOR(HWND hwnd = CreateWindow(_T("ImGui Example"), _T("Avustaja 1.0"), WS_POPUP, 1000, 0, 1920, 600, NULL, NULL, wc.hInstance, NULL));
-	//HWND hwnd = FindWindow(NULL, "Counter-Strike: Global Offensive");
+	XOR(HWND hwnd = CreateWindow(_T("ImGui Example"), _T("Avustaja"), WS_POPUP | WS_EX_TOPMOST, 1000, 0, 1920, 600, NULL, NULL, wc.hInstance, NULL));
+	//HWND hwnd = FindWindow(0, "Counter-Strike: Global Offensive");
 	XOR(ShowWindow(::GetConsoleWindow(), SW_HIDE));
-
 	SetLayeredWindowAttributes(hwnd, 0, 0, LWA_ALPHA);
 	SetLayeredWindowAttributes(hwnd, 0, RGB(0, 0, 0), LWA_COLORKEY);
 
@@ -742,8 +820,8 @@ int main(int, char**)
 	XOR(bool Bwallhack = Parser(WallINI));
 	XOR(bool Btriggerbot = Parser(TriggerINI));
 	XOR(bool Bnoflash = Parser(FlashINI));
-	XOR(bool Baimbot = false);
-	XOR(bool Baimbot2 = false);
+	XOR(bool xWalltoggle = false);
+	XOR(bool xWalltoggle2 = false);
 	bool Basdasdlol = false;
 	XOR(bool Bradar = Parser(RadarINI));
 
@@ -754,244 +832,225 @@ int main(int, char**)
 	//float Cham_color[3] = { 255.0f, 255.0f, 255.0f};
 	float clearColor[4] = { 0.0f,0.0f,0.0f,0.0f };
 	XOR(HWND hcsgond = FindWindow(NULL, "Counter-Strike: Global Offensive"));
+	init();
+	update();
+	//Set the global var for localplayer base address to reduce RPM calls
+	LocalPlayer::setLocalPlayer();
+	//LocalPlayer::setLocalPlayerEng();
+	clientState = rpm<DWORD>(engineAddress + g_offsets::dwClientState);
 
-	if (attatchProc(XOR("csgo.exe"))) //XOR() is the xor encryption - more info about it in XOR.h
+	// Main loop
+	MSG msg;
+	bool lol = false;
+	ZeroMemory(&msg, sizeof(msg));
+	dankmemeforthewin();
+	HANDLE bhop = NULL;
+	HANDLE aim = NULL;
+	HANDLE Trigger = NULL;
+	int lore = 0;
+	const char* items[] = { "Left ALT", "Scroll Down", "Mouse2" };
+	const char* current_item = items[0];
+	while (msg.message != WM_QUIT || !GetAsyncKeyState(VK_F10))
 	{
-		//Getting base address of client_panorama.dll so we can offset from it
-		if (baseAddress = getModule(XOR("client_panorama.dll")))
+					
+		if (SigOnState() == 6)
 		{
-			if (engineAddress = getModule(XOR("engine.dll")))
+			LocalPlayer::setLocalPlayer();
+			//LocalPlayer::setLocalPlayerEng();
+		}
+		dankmemeforthewin();
+		dankmemeforthewin();
+		dankmemeforthewin();
+		// Poll and handle messages (inputs, window resize, etc.)
+		// You can read the io.WantCaptureMouse, io.WantCaptureKeyboard flags to tell if dear imgui wants to use your inputs.
+		// - When io.WantCaptureMouse is true, do not dispatch mouse input data to your main application.
+		// - When io.WantCaptureKeyboard is true, do not dispatch keyboard input data to your main application.
+		// Generally you may always pass all inputs to dear imgui, and hide them from your application based on those two flags.
+		if (PeekMessage(&msg, NULL, 0U, 0U, PM_REMOVE))
+		{
+			TranslateMessage(&msg);
+			DispatchMessage(&msg);
+			continue;
+		}
+		if (GetAsyncKeyState(VK_INSERT) & 1)
+		{
+			lol = !lol;
+			Sleep(100);
+			XOR(ChangeClickability(lol, hwnd));
+
+			if (lol == false)
 			{
-				//Set the global var for localplayer base address to reduce RPM calls
-				LocalPlayer::setLocalPlayer();
-				LocalPlayer::setLocalPlayerEng();
-				// Main loop
-				MSG msg;
-				bool lol = false;
-				ZeroMemory(&msg, sizeof(msg));
-				dankmemeforthewin();
-				HANDLE bhop = NULL;
-				HANDLE Trigger = NULL;
-				int lore = 0;
-				const char* items[] = { "Left ALT", "Scroll Down", "Mouse2" };
-				const char* current_item = items[0];
-				
-				while (msg.message != WM_QUIT || !GetAsyncKeyState(VK_F10))
-				{
-					
-					if (SigOnState() == 6)
-					{
-						LocalPlayer::setLocalPlayer();
-						LocalPlayer::setLocalPlayerEng();
-					}
-					dankmemeforthewin();
-					dankmemeforthewin();
-					dankmemeforthewin();
-					// Poll and handle messages (inputs, window resize, etc.)
-					// You can read the io.WantCaptureMouse, io.WantCaptureKeyboard flags to tell if dear imgui wants to use your inputs.
-					// - When io.WantCaptureMouse is true, do not dispatch mouse input data to your main application.
-					// - When io.WantCaptureKeyboard is true, do not dispatch keyboard input data to your main application.
-					// Generally you may always pass all inputs to dear imgui, and hide them from your application based on those two flags.
-					if (PeekMessage(&msg, NULL, 0U, 0U, PM_REMOVE))
-					{
-						TranslateMessage(&msg);
-						DispatchMessage(&msg);
-						continue;
-					}
-					if (GetAsyncKeyState(VK_INSERT) & 1)
-					{
-						lol = !lol;
-						Sleep(100);
-						XOR(ChangeClickability(lol, hwnd));
-
-						if (lol == false)
-						{
-							XOR(SetForegroundWindow(hcsgond));
-						}
-					}
-
-					if (Btriggerbot)
-					{
-						if (Trigger == NULL)
-						{
-							XOR(Trigger = CreateThread(NULL, NULL, &Koodi::Triggerbot, NULL, NULL, NULL));
-						}
-					}
-
-					if (!Btriggerbot)
-					{
-						if (Trigger != NULL)
-						{
-							XOR(TerminateThread(Trigger, 0));
-						}
-					}
-					
-
-
-					if (Bautofire)
-					{
-						dankmemeforthewin();
-						XOR(Koodi::autopistol());
-					}
-
-					if (Bradar)
-					{
-						for (int i = 0; i < 32; i++)
-						{
-							XOR(auto base = Entity::getEntBase(i));
-							dankmemeforthewin();
-							dankmemeforthewin();
-							XOR(Entity::setSpotted(base, true));
-						}
-					}
-
-					if (Bwallhack)
-					{
-						dankmemeforthewin();
-						XOR(Koodi::ESP());
-					}
-
-					if (Bnoflash)
-					{
-						XOR(Koodi::noFlash());
-					}
-
-					if (Bbunnyhop)
-					{
-						if (bhop == NULL)
-						{
-							XOR(bhop = CreateThread(NULL, NULL, &Koodi::Bunnyhop, NULL, NULL, NULL));
-						}
-					}
-					else
-					{
-						if (!Bbunnyhop)
-						{
-							XOR(TerminateThread(bhop, 0));
-							XOR(bhop = NULL);
-						}
-					}
-
-					if (Baimbot)
-					{
-						XOR(Koodi::aimbot(Koodi::getPlayer()));
-					}
-
-					// Start the Dear ImGui frame
-					ImGui_ImplDX11_NewFrame();
-					ImGui_ImplWin32_NewFrame();
-					ImGui::NewFrame();
-
-					// 1. Show the big demo window (Most of the sample code is in ImGui::ShowDemoWindow()! You can browse its code to learn more about Dear ImGui!).
-
-					// 2. Show a simple window that we create ourselves. We use a Begin/End pair to created a named window.
-					{
-						static float f = 0.0f;
-						static int counter = 0;
-
-						ImGui::Begin("CS:GO eXternal 1.50");                          // Create a window called "Hello, world!" and append into it.
-						ImGui::Text("Press Insert To hide and show  menu");
-
-						ImGui::Checkbox("Bunnyhop         ", &Bbunnyhop);     // Edit bools storing our window open/close state
-						ImGui::SameLine();
-						ImGui::Checkbox("Autopistol", &Bautofire);
-						ImGui::Checkbox("Radar Hack       ", &Bradar);
-						ImGui::SameLine();
-						ImGui::Checkbox("Wallhack", &Bwallhack);
-						ImGui::Checkbox("Triggerbot", &Btriggerbot);
-						//ImGui::Checkbox("asdasdlol", &Basdasdlol);
-						if (Trigger)
-						{
-								ImGui::SameLine();
-								if (ImGui::BeginCombo("Hotkey", current_item)) // The second parameter is the label previewed before opening the combo.
-								{
-									for (int n = 0; n < IM_ARRAYSIZE(items); n++)
-									{
-										bool is_selected = (current_item == items[n]); // You can store your selection however you want, outside or inside your objects
-										if (ImGui::Selectable(items[n], is_selected))
-										{
-											current_item = items[n];
-											XOR(LocalPlayer::setLocalTriggerKey(current_item));
-											if (is_selected)
-												ImGui::SetItemDefaultFocus();   // You may set the initial focus when opening the combo (scrolling + for keyboard navigation support)
-										}
-									}
-									ImGui::EndCombo();
-								}
-						}
-
-						ImGui::Checkbox("NoFlash", &Bnoflash);
-						ImGui::Checkbox("Aimbot (Beta)", &Baimbot2);
-						ImGui::Checkbox("Aimbot (DO NOT USE!)", &Baimbot);
-						ImGui::NewLine();
-						ImGui::NewLine();
-						if (ImGui::Button("EXIT Cheat", exitbutton))
-						{
-							ImGui_ImplDX11_Shutdown();
-							ImGui_ImplWin32_Shutdown();
-							ImGui::DestroyContext();
-
-							CleanupDeviceD3D();
-							DestroyWindow(hwnd);
-							CloseHandle(hProc);
-							//UnregisterClass(_T("ImGui Example"), wc.hInstance);
-							Sleep(100);
-							return 0;
-						}
-						ImGui::SameLine();
-						if (ImGui::Button("Refresh offsets", refresh))
-						{
-							LocalPlayer::setLocalPlayer();
-							LocalPlayer::setLocalPlayerEng();
-						}
-
-						if (Baimbot2)
-						{
-							aimbotV2(getPlayerV2());
-						}
-
-						if (Bbunnyhop) {
-							ImGui::Text("FLAGS: %i", LocalPlayer::getLocalFlags());
-						}
-						if(Bautofire)
-						{
-							float accpen = rpm<float>(LocalPlayer::LocalEngineaddress + netvars::m_fAccuracyPenalty);
-							ImGui::Text("PEANLTY: %f", accpen);
-							ImGui::Text("WEAPON: %i", Koodi::currentWeapon());
-						}
-
-						ImGui::Text("Application average %.3f ms/frame (%.1f FPS)", 1000.0f / ImGui::GetIO().Framerate, ImGui::GetIO().Framerate);
-						ImGui::Text("LocalTeamID %i", LocalPlayer::getLocalTeam());
-						ImGui::End();
-					}
-
-					if (Basdasdlol)
-					{
-						ImGui::Begin("Another Window", &Basdasdlol);   // Pass a pointer to our bool variable (the window will have a closing button that will clear the bool when clicked)
-						ImGui::Text("Hello from another window!");
-						ImGui::ColorEdit3("Enemy Color!", (float*)&Cham_color);
-						//Koodi::Chams(Cham_color[0]/10000000, Cham_color[1]/10000000, Cham_color[2]/10000000);
-						ImGui::End();
-					}
-
-					// Rendering
-					ImGui::Render();
-					g_pd3dDeviceContext->OMSetRenderTargets(1, &g_mainRenderTargetView, NULL);
-					g_pd3dDeviceContext->ClearRenderTargetView(g_mainRenderTargetView, (float*)&clearColor);
-					ImGui_ImplDX11_RenderDrawData(ImGui::GetDrawData());
-
-					g_pSwapChain->Present(1, 0); // Present with vsync
-					//g_pSwapChain->Present(0, 0); // Present without vsync
-					Sleep(1);
-				}
+				XOR(SetForegroundWindow(hcsgond));
 			}
 		}
-	}
-	else if (!attatchProc(XOR("csgo.exe")))
-	{
-		LPCTSTR Caption = "Game not found!";
-		MessageBox(NULL,"Varmista että peli on käynnissä", Caption,
-			MB_OK | MB_ICONWARNING);
+
+		if (Btriggerbot)
+		{
+			if (Trigger == NULL)
+			{
+				dankmemeforthewin();
+				XOR(Trigger = CreateThread(NULL, NULL, &Koodi::Triggerbot, NULL, NULL, NULL));
+			}
+		}
+
+		if (!Btriggerbot)
+		{
+			if (Trigger != NULL)
+			{
+				XOR(TerminateThread(Trigger, 0));
+			}
+		}
+					
+
+
+		if (Bautofire)
+		{
+			dankmemeforthewin();
+			XOR(Koodi::autopistol());
+		}
+
+		if (Bradar)
+		{
+			for (int i = 0; i < 32; i++)
+			{
+				XOR(auto base = Entity::getEntBase(i));
+				dankmemeforthewin();
+				dankmemeforthewin();
+				XOR(Entity::setSpotted(base, true));
+			}
+		}
+
+		if (Bwallhack || xWalltoggle && xWalltoggle2)
+		{
+			dankmemeforthewin();
+			XOR(Koodi::ESP());
+		}
+
+		if (GetAsyncKeyState(VK_NUMPAD0) & 1) {
+			xWalltoggle = !xWalltoggle;
+		}
+
+		if (Bnoflash)
+		{
+			XOR(Koodi::noFlash());
+		}
+
+		if (Bbunnyhop)
+		{
+			if (bhop == NULL)
+			{
+				XOR(bhop = CreateThread(NULL, NULL, &Koodi::Bunnyhop, NULL, NULL, NULL));
+			}
+		}
+
+		if(!Bbunnyhop)
+		{
+			XOR(TerminateThread(bhop, 0));
+			XOR(bhop = NULL);
+		}
+
+		// Start the Dear ImGui frame
+		ImGui_ImplDX11_NewFrame();
+		ImGui_ImplWin32_NewFrame();
+		ImGui::NewFrame();
+
+		// 1. Show the big demo window (Most of the sample code is in ImGui::ShowDemoWindow()! You can browse its code to learn more about Dear ImGui!).
+
+		// 2. Show a simple window that we create ourselves. We use a Begin/End pair to created a named window.
+		{
+			static float f = 0.0f;
+			static int counter = 0;
+
+			ImGui::Begin("CS:GO eXternal 2.0 & Autoupdater 7.6.2020");                          // Create a window called "Hello, world!" and append into it.
+			ImGui::Text("Press Insert To hide and show  menu");
+
+			ImGui::Checkbox("Bunnyhop         ", &Bbunnyhop);     // Edit bools storing our window open/close state
+			ImGui::SameLine();
+			ImGui::Checkbox("Autopistol", &Bautofire);
+			ImGui::Checkbox("Radar Hack       ", &Bradar);
+			ImGui::SameLine();
+			ImGui::Checkbox("Wallhack", &Bwallhack);
+			ImGui::SameLine();
+			ImGui::Checkbox("WToggle", &xWalltoggle2);
+			ImGui::Checkbox("Triggerbot", &Btriggerbot);
+			//ImGui::Checkbox("asdasdlol", &Basdasdlol);
+			if (Trigger)
+			{
+					ImGui::SameLine();
+					if (ImGui::BeginCombo("Hotkey", current_item)) // The second parameter is the label previewed before opening the combo.
+					{
+						for (int n = 0; n < IM_ARRAYSIZE(items); n++)
+						{
+							bool is_selected = (current_item == items[n]); // You can store your selection however you want, outside or inside your objects
+							if (ImGui::Selectable(items[n], is_selected))
+							{
+								current_item = items[n];
+								XOR(LocalPlayer::setLocalTriggerKey(current_item));
+								if (is_selected)
+									ImGui::SetItemDefaultFocus();   // You may set the initial focus when opening the combo (scrolling + for keyboard navigation support)
+							}
+						}
+						ImGui::EndCombo();
+					}
+			}
+
+			ImGui::Checkbox("NoFlash", &Bnoflash);
+			ImGui::NewLine();
+			ImGui::NewLine();
+			if (ImGui::Button("EXIT Cheat", exitbutton))
+			{
+				ImGui_ImplDX11_Shutdown();
+				ImGui_ImplWin32_Shutdown();
+				ImGui::DestroyContext();
+
+				CleanupDeviceD3D();
+				DestroyWindow(hwnd);
+				CloseHandle(hProc);
+				UnregisterClass(_T("ImGui Example"), wc.hInstance);
+				Sleep(100);
+				return 0;
+			}
+			ImGui::SameLine();
+			if (ImGui::Button("Refresh offsets", refresh))
+			{
+				LocalPlayer::setLocalPlayer();
+				//LocalPlayer::setLocalPlayerEng();
+				std::cout << LocalPlayer::getLocalPlayer() << std::endl;
+			}
+
+			if (Bbunnyhop) {
+				ImGui::Text("FLAGS: %i", LocalPlayer::getLocalFlags());
+			}
+			if(Bautofire)
+			{
+				float accpen = rpm<float>(clientState + g_netvars::m_fAccuracyPenalty);
+				ImGui::Text("PEANLTY: %f", accpen);
+				ImGui::Text("WEAPON: %i", Koodi::currentWeapon());
+			}
+
+			ImGui::Text("Application average %.3f ms/frame (%.1f FPS)", 1000.0f / ImGui::GetIO().Framerate, ImGui::GetIO().Framerate);
+			ImGui::Text("LocalTeamID %i", LocalPlayer::getLocalTeam());
+			ImGui::End();
+		}
+
+		if (Basdasdlol)
+		{
+			ImGui::Begin("Another Window", &Basdasdlol);   // Pass a pointer to our bool variable (the window will have a closing button that will clear the bool when clicked)
+			ImGui::Text("Hello from another window!");
+			ImGui::ColorEdit3("Enemy Color!", (float*)&Cham_color);
+			//Koodi::Chams(Cham_color[0]/10000000, Cham_color[1]/10000000, Cham_color[2]/10000000);
+			ImGui::End();
+		}
+
+		// Rendering
+		ImGui::Render();
+		g_pd3dDeviceContext->OMSetRenderTargets(1, &g_mainRenderTargetView, NULL);
+		g_pd3dDeviceContext->ClearRenderTargetView(g_mainRenderTargetView, (float*)&clearColor);
+		ImGui_ImplDX11_RenderDrawData(ImGui::GetDrawData());
+
+		g_pSwapChain->Present(1, 0); // Present with vsync
+		//g_pSwapChain->Present(0, 0); // Present without vsync
+		Sleep(1);
 	}
 
     ImGui_ImplDX11_Shutdown();

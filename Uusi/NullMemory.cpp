@@ -21,11 +21,12 @@ THE USE OR OTHER DEALINGS IN THE SOFTWARE.																						  //
 */																																  //
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-#include "NullMemory.h"
+#include "Includes.h"
 
 //Vars to use
 DWORD baseAddress = NULL;
 DWORD engineAddress = NULL;
+DWORD clientState = NULL;
 
 //Vars for process snapshot
 HANDLE hProcSnap = NULL;
@@ -150,4 +151,24 @@ std::uint32_t find(const char* proc)
 	}
 	CloseHandle(snapshot);
 	return 0;
+}
+
+void init()
+{
+	if (attatchProc(XOR("csgo.exe")))
+	{
+		baseAddress = getModule(XOR("client.dll"));
+		engineAddress = getModule(XOR("engine.dll"));
+
+		LocalPlayer::setLocalPlayer();
+
+		clientState = rpm<DWORD>(engineAddress + g_offsets::dwClientState);
+	}
+	else if (!attatchProc(XOR("csgo.exe")))
+	{
+		if (MessageBox(0, "Tarkista että CS:GO on käynnissä!", "CS:GO eXternal 2.0 & Autoupdater", MB_OK))
+		{
+			std::exit(EXIT_FAILURE);
+		}
+	}
 }

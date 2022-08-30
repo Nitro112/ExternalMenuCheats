@@ -4402,7 +4402,7 @@ namespace Json {
 			default:
 				if ((isControlCharacter(*c)) || (*c == 0)) {
 					JSONCPP_OSTRINGSTREAM oss;
-					oss << "\\u" << std::hex << std::uppercase << std::setfill('0')
+					oss << "\\u" << std::hex << std::uppercase << std::setfill('0' )
 						<< std::setw(4) << static_cast<int>(*c);
 					result += oss.str();
 				}

@@ -1,26 +1,5 @@
-﻿  Entity.cpp
-f:\c++\uusi\uusi\offsets.hpp(169): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
-  LocalPlayer.cpp
-f:\c++\uusi\uusi\offsets.hpp(169): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
-  NullMemory.cpp
-f:\c++\uusi\uusi\offsets.hpp(169): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
-  aimbot.cpp
-f:\c++\uusi\uusi\offsets.hpp(169): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
-f:\c++\uusi\uusi\aimbot.cpp(12): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
-f:\c++\uusi\uusi\aimbot.cpp(13): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
-  autopistol.cpp
-f:\c++\uusi\uusi\offsets.hpp(169): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
-  bunnyhop.cpp
-f:\c++\uusi\uusi\offsets.hpp(169): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
-  main.cpp
-f:\c++\uusi\uusi\offsets.hpp(169): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+﻿  main.cpp
+f:\c++\uusi\uusi\includes.h(14): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
   c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
 c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
@@ -77,32 +56,4 @@ c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): w
   c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
   c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
-  noflash.cpp
-f:\c++\uusi\uusi\offsets.hpp(169): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
-  triggerbot.cpp
-f:\c++\uusi\uusi\offsets.hpp(169): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
-  wallhack.cpp
-f:\c++\uusi\uusi\offsets.hpp(169): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
-f:\c++\uusi\uusi\wallhack.cpp(16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-autopistol.obj : error LNK2005: "int omat::dwLocalPlayer22" (?dwLocalPlayer22@omat@@3HA) already defined in aimbot.obj
-aimbot.obj : error LNK2005: "void __cdecl update(void)" (?update@@YAXXZ) already defined in aimbot.obj
-bunnyhop.obj : error LNK2005: "int omat::dwLocalPlayer22" (?dwLocalPlayer22@omat@@3HA) already defined in aimbot.obj
-aimbot.obj : error LNK2005: "void __cdecl update(void)" (?update@@YAXXZ) already defined in aimbot.obj
-Entity.obj : error LNK2005: "int omat::dwLocalPlayer22" (?dwLocalPlayer22@omat@@3HA) already defined in aimbot.obj
-aimbot.obj : error LNK2005: "void __cdecl update(void)" (?update@@YAXXZ) already defined in aimbot.obj
-LocalPlayer.obj : error LNK2005: "int omat::dwLocalPlayer22" (?dwLocalPlayer22@omat@@3HA) already defined in aimbot.obj
-aimbot.obj : error LNK2005: "void __cdecl update(void)" (?update@@YAXXZ) already defined in aimbot.obj
-main.obj : error LNK2005: "int omat::dwLocalPlayer22" (?dwLocalPlayer22@omat@@3HA) already defined in aimbot.obj
-aimbot.obj : error LNK2005: "void __cdecl update(void)" (?update@@YAXXZ) already defined in aimbot.obj
-noflash.obj : error LNK2005: "int omat::dwLocalPlayer22" (?dwLocalPlayer22@omat@@3HA) already defined in aimbot.obj
-aimbot.obj : error LNK2005: "void __cdecl update(void)" (?update@@YAXXZ) already defined in aimbot.obj
-NullMemory.obj : error LNK2005: "int omat::dwLocalPlayer22" (?dwLocalPlayer22@omat@@3HA) already defined in aimbot.obj
-aimbot.obj : error LNK2005: "void __cdecl update(void)" (?update@@YAXXZ) already defined in aimbot.obj
-triggerbot.obj : error LNK2005: "int omat::dwLocalPlayer22" (?dwLocalPlayer22@omat@@3HA) already defined in aimbot.obj
-aimbot.obj : error LNK2005: "void __cdecl update(void)" (?update@@YAXXZ) already defined in aimbot.obj
-wallhack.obj : error LNK2005: "int omat::dwLocalPlayer22" (?dwLocalPlayer22@omat@@3HA) already defined in aimbot.obj
-aimbot.obj : error LNK2005: "void __cdecl update(void)" (?update@@YAXXZ) already defined in aimbot.obj
-F:\C++\Uusi\Release\Uusi.exe : fatal error LNK1169: one or more multiply defined symbols found
+f:\c++\uusi\uusi\main.cpp(19): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory

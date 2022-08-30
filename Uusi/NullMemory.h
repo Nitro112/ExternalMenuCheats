@@ -26,7 +26,7 @@ THE USE OR OTHER DEALINGS IN THE SOFTWARE.																						  //
 #include <tlhelp32.h>
 #include <iostream>
 #include <string>
-#include "Offsets.hpp"
+#include "lolz.hpp"
 
 //Flags
 #define FL_ON_GROUND                     257
@@ -48,11 +48,10 @@ THE USE OR OTHER DEALINGS IN THE SOFTWARE.																						  //
 #define TEAM_ID_T 2
 #define TEAM_ID_CT 3
 
-extern void ForceFullUpdate();
-
 //Vars to use
 extern DWORD baseAddress;
 extern DWORD engineAddress;
+extern DWORD clientState;
 
 //Vars for process snapshot
 extern HANDLE hProcSnap;
@@ -97,5 +96,6 @@ extern DWORD getModule(char* moduleName);
 
 extern uintptr_t patternScan(char* base, size_t size, char* pattern);
 
+extern void init();
 
 extern std::uint32_t find(const char* proc);
